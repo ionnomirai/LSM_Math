@@ -1,0 +1,15 @@
+# .NET Core / Visual Studio build folders
+bin/
+obj/
+
+# User-specific files
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
